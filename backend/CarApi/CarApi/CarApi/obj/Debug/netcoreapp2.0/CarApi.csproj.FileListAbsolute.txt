@@ -1,0 +1,11 @@
+D:\Learning\Asp_net\web_api\CarApi\CarApi\bin\Debug\netcoreapp2.0\CarApi.deps.json
+D:\Learning\Asp_net\web_api\CarApi\CarApi\bin\Debug\netcoreapp2.0\CarApi.runtimeconfig.json
+D:\Learning\Asp_net\web_api\CarApi\CarApi\bin\Debug\netcoreapp2.0\CarApi.runtimeconfig.dev.json
+D:\Learning\Asp_net\web_api\CarApi\CarApi\bin\Debug\netcoreapp2.0\CarApi.dll
+D:\Learning\Asp_net\web_api\CarApi\CarApi\bin\Debug\netcoreapp2.0\CarApi.pdb
+D:\Learning\Asp_net\web_api\CarApi\CarApi\obj\Debug\netcoreapp2.0\CarApi.csprojResolveAssemblyReference.cache
+D:\Learning\Asp_net\web_api\CarApi\CarApi\obj\Debug\netcoreapp2.0\CarApi.csproj.CoreCompileInputs.cache
+D:\Learning\Asp_net\web_api\CarApi\CarApi\obj\Debug\netcoreapp2.0\CarApi.AssemblyInfoInputs.cache
+D:\Learning\Asp_net\web_api\CarApi\CarApi\obj\Debug\netcoreapp2.0\CarApi.AssemblyInfo.cs
+D:\Learning\Asp_net\web_api\CarApi\CarApi\obj\Debug\netcoreapp2.0\CarApi.dll
+D:\Learning\Asp_net\web_api\CarApi\CarApi\obj\Debug\netcoreapp2.0\CarApi.pdb

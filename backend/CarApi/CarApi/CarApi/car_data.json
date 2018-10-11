@@ -1,0 +1,43 @@
+[
+	{
+		"id": 1,
+		"flag": "add",
+		"manufacturer": "Dodgeesfes",
+		"make": "Challenger",
+		"model": "Hellcort",
+		"year": 2013.0
+	},
+	{
+		"id": 2,
+		"flag": "add",
+		"manufacturer": "Ford",
+		"make": "Musutang",
+		"model": "GT",
+		"year": 2011.0
+	},
+	{
+		"id": 3,
+		"flag": "add",
+		"manufacturer": "Tesla",
+		"make": "Tess",
+		"model": "X",
+		"year": 2016.0
+	},
+	{
+		"id": 4,
+		"flag": "add",
+		"manufacturer": "ddd",
+		"make": "efes",
+		"model": "ete4",
+		"year": 243.0
+	},
+	{
+		"id": 5,
+		"flag": "add",
+		"manufacturer": "sdfsf",
+		"make": "ewr",
+		"model": "bdsf",
+		"year": 23.0
+	}
+
+]
